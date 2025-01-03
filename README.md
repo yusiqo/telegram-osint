@@ -1,6 +1,8 @@
 
 # Telegram OSINT Tool - Powered by Yusiqo
 
+![Logo](https://github.com/yusiqo/telegram-osint/blob/main/banner/banner.png?raw=true)
+
 ## Description
 This tool allows you to perform OSINT (Open Source Intelligence) on Telegram users by fetching detailed information about the target user and their activity across common groups. It uses the **Pyrogram** library to interact with the Telegram API, providing functionalities like retrieving user data, their common groups, and messages from those groups.
 
