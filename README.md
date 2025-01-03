@@ -20,8 +20,8 @@ This tool allows you to perform OSINT (Open Source Intelligence) on Telegram use
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/telegram-osint-tool.git
-    cd telegram-osint-tool
+    git clone https://github.com/yusiqo/telegram-osint.git
+    cd telegram-osint
     ```
 
 2. Install required libraries:
